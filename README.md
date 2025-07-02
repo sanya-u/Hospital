@@ -1,5 +1,7 @@
 # Hospital
 ![image](https://github.com/user-attachments/assets/d311713a-a71b-455f-92f1-71ba9cd6d206)
+![image](https://github.com/user-attachments/assets/f1e8d0b3-f621-48da-a975-f85273d1beb2)
+
 # 📊 Dhosp - Power BI Hospital Analytics Dashboard
 
 This repository contains a Power BI template file (`.pbit`) designed for hospital or healthcare data analytics. The dashboard helps users visualize and explore key metrics such as patient inflow, treatment categories, department performance, and resource utilization.
