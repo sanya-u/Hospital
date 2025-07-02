@@ -76,7 +76,7 @@ You can easily adapt the visuals, filters, and calculated measures (DAX) to suit
 Sanya Puri  
 📍 Noida, India  
 📧 sanyapuri166@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/sanyapuri](https://www.linkedin.com/in/purisanya/))
+🔗 [LinkedIn](https://www.linkedin.com/in/purisanya/)
 
 ---
 
